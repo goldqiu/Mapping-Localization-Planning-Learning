@@ -36,9 +36,19 @@
 
 [goldqiu：二十四-香港大学火星实验室FAST-LIO2框架跑官方数据集](https://zhuanlan.zhihu.com/p/481546652)
 
+
+
 ## Localization
 
 [here](https://github.com/goldqiu/Mapping-Localization-Planning-Learning/tree/main/SLAM/Localization)
+
+### 参考博客
+
+[goldqiu：二十五.SLAM中Mapping和Localization区别和思考](https://zhuanlan.zhihu.com/p/494959811)
+
+[goldqiu：一.全局定位--开源定位框架LIO-SAM_based_relocalization实录数据集测试](https://zhuanlan.zhihu.com/p/494961228)
+
+[goldqiu：二.全局定位--开源定位框架livox-relocalization实录数据集测试](https://zhuanlan.zhihu.com/p/496006244)
 
 ### Preparation
 
